@@ -6,7 +6,7 @@
 
 # 👋 About Me
 
-Hi! I'm **ThankGod Ezeakabekwe (ONYE_SOFT)**, a passionate **Frontend Developer** and **UI/UX Designer** dedicated to building clean, modern, and user-focused web applications.
+Hi! I'm **Onyekachi ThankGod Ezeakabekwe (ONYE_SOFT)**, a passionate **Frontend Developer** and **UI/UX Designer** dedicated to building clean, modern, and user-focused web applications.
 
 I enjoy transforming complex ideas into intuitive interfaces using modern frontend technologies while ensuring excellent user experience and performance.
 
